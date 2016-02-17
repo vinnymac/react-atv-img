@@ -31,6 +31,7 @@
     "url": "https://github.com/keyanzhang/react-atv-img/issues"
   },
   "homepage": "https://github.com/keyanzhang/react-atv-img#readme",
+  "dependencies": {},
   "peerDependencies": {
     "react": ">=0.14"
   },
