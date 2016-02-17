@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-import AtvImg from 'react-atv-img';
+import AtvImg from 'react-atv-img-fixed';
 
 const rootDivStyle = {
   position: 'absolute',

@@ -1,5 +1,5 @@
 {
-  "name": "react-atv-img",
+  "name": "react-atv-img-fixed",
   "version": "0.1.1",
   "description": "A port of @drewwilson’s atvImg (Apple TV 3D parallax effect) library in React",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keyanzhang/react-atv-img.git"
+    "url": "git+https://github.com/vinnymac/react-atv-img.git"
   },
   "keywords": [
     "react",
@@ -28,9 +28,10 @@
   "author": "Keyan Zhang <root@keyanzhang.com> (http://keya.nz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keyanzhang/react-atv-img/issues"
+    "url": "https://github.com/vinnymac/react-atv-img/issues"
   },
-  "homepage": "https://github.com/keyanzhang/react-atv-img#readme",
+  "homepage": "https://github.com/vinnymac/react-atv-img#readme",
+  "dependencies": {},
   "peerDependencies": {
     "react": ">=0.14"
   },
@@ -55,5 +56,9 @@
     "webpack": "~1.12.2",
     "webpack-dev-middleware": "~1.2.0",
     "webpack-hot-middleware": "~2.4.1"
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
   }
 }

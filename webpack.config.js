@@ -53,7 +53,7 @@ module.exports = Object.assign({}, {
   ],
   resolve: {
     alias: {
-      'react-atv-img': path.join(__dirname, 'src')
+      'react-atv-img-fixed': path.join(__dirname, 'src')
     },
     extensions: ['', '.js']
   },
