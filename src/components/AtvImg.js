@@ -1,6 +1,6 @@
 import styles from '../styles';
 
-export default function (React) {
+export default function(React) {
   const { Component, PropTypes } = React;
 
   return class AtvImg extends Component {
@@ -146,5 +146,5 @@ export default function (React) {
         </div>
       );
     }
-  }
+  };
 }
